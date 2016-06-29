@@ -2,7 +2,7 @@
 
 ##Short Version
 We need to see what is in your log.
-Start by opening `game output` ta`.
+Start by opening `game output` tab.
 First copy all of the text (right click on any empty space press `Copy All Text`).
 Then go to http://paste.feed-the-beast.com and paste it. 
 Click `Paste!` then share with us the link (the URL) that it takes you to. 
